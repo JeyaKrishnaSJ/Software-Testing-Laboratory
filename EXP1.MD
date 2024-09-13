@@ -35,11 +35,22 @@ def display():
 display()
 
 ```
+b) while..do
 
+```python
+start = input("Enter a positive value for START: ") 
+end = input("Enter a positive value for END: ") 
 
+if start.isnumeric() and end.isnumeric(): 
+    start = int(start) 
+    end = int(end) 
+    while start < end: 
+        print(start) 
+        start += 1 
+else: 
+    print("Enter a valid positive number.")
 
-
-
+```
 
 
 
