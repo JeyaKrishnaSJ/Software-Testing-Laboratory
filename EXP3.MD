@@ -16,24 +16,69 @@ Write a python program to check the number is prime or not and inspect for failu
 8. Stop the program.
 
 ### Program:
+```
+num = input()
+flag = 0
+if num.isnumeric():
+    z = int(num)
+    if z == 2:
+        flag = 1
+    if z > 2:
+        for i in range(2, z // 2):
+            if z % i == 0:
+                flag = 0
+                break
+        else:
+            flag = 1
+    if flag == 1:
+        print("Prime Number")
+    else:
+        print("Not a Prime Number")
+else:
+    print("Enter a Positive Number")
 
-
-
-
-
-
-
-
-
+```
 
 
 
 
 ### Output:
+```
+3
+Prime Number
 
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+4
+Prime Number
 
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+-3
+Enter a Positive Number
 
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+0
+Not a Prime Number
 
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+jk
+Enter a Positive Number
 
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+4221445224742
+Not a Prime Number
+
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+--
+Enter a Positive Number
+
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+@@
+Enter a Positive Number
+
+================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
+333336
+Not a Prime Number
+
+```
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
