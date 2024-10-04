@@ -50,20 +50,28 @@ except ValueError:
 ```
 Enter the element to be searched: 5
 Element is not present in array
+
 Enter the element to be searched: 4
 Element is present at index 2
+
 Enter the element to be searched: h
 Enter a valid input!
+
 Enter the element to be searched:  
 Enter a valid input!
+
 Enter the element to be searched: -8
 Element is not present in array
+
 Enter the element to be searched: 88
 Element is not present in array
+
 Enter the element to be searched: jk
 Enter a valid input!
+
 Enter the element to be searched: 789
 Element is not present in array
+
 Enter the element to be searched: 40
 Element is present at index 4
 ```
