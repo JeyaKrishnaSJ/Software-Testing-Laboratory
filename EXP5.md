@@ -52,34 +52,8 @@ except ValueError:
 
 ### Output:
 
-```
-Enter the element to be searched: 5
-Element is not present in array
+![Screenshot (70)](https://github.com/user-attachments/assets/d1824f5a-f824-43b9-936c-ff8a64211550)
 
-Enter the element to be searched: 4
-Element is present at index 2
-
-Enter the element to be searched: h
-Enter a valid input!
-
-Enter the element to be searched:  
-Enter a valid input!
-
-Enter the element to be searched: -8
-Element is not present in array
-
-Enter the element to be searched: 88
-Element is not present in array
-
-Enter the element to be searched: jk
-Enter a valid input!
-
-Enter the element to be searched: 789
-Element is not present in array
-
-Enter the element to be searched: 40
-Element is present at index 4
-```
 
 ### Result:
 Thus, the python program of binary search is implemented and the output is verified 
