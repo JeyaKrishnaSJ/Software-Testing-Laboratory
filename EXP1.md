@@ -101,12 +101,14 @@ iterate()
 
 
 
-
 ### Output:
 
 
-
-
+![1a](https://github.com/user-attachments/assets/c06152d5-160b-426d-8049-b47f05763b8f)
+![1b](https://github.com/user-attachments/assets/e812d4cd-3b87-47db-a8fd-d6c614c2103f)
+![Screenshot (55)](https://github.com/user-attachments/assets/2c43d1e1-26fc-4a68-860f-4c9d11e14da0)
+![image](https://github.com/user-attachments/assets/ad165e89-95c2-433c-b8f0-db3d9f617de9)
+![image](https://github.com/user-attachments/assets/953d3a2c-19c9-4d38-9207-93d044e314d0)
 
 
 ### Result:
