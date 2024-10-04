@@ -43,31 +43,24 @@ else:
 Enter the input: 3
 Armstrong Number
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input: 3334
 Not Armstrong Number
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input: -17
 Enter a Positive Integer.
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input: 0
 Armstrong Number
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input:  
 Enter a Positive Integer.
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input: @#
 Enter a Positive Integer.
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input: jj
 Enter a Positive Integer.
 
-================== RESTART: C:/Users/SEC/Desktop/figma/stl4.py =================
 Enter the input: 2132736201928002
 Not Armstrong Number
 ```
