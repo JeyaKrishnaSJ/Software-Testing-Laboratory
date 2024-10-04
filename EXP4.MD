@@ -16,7 +16,7 @@ Write a python program to check the number is Armstrong number or not and inspec
 9.	Stop the program.
 
 ### Program:
-python ```
+```
 x = input("Enter the input: ")
 if x.isnumeric():
     x = int(x)
