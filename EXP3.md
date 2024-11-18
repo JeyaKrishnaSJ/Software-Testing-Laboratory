@@ -3,8 +3,7 @@
 ### DATE:  30/08/24                                                                          
 ### REGISTER NUMBER : 212222040064
 ### AIM: 
-Write a python program to check the number is prime or not and inspect for failures.
- 
+Write a python program to check the number is prime or not and inspect for failures. 
 ### Algorithm:
 1. Start the program.
 2. Get the number to be checked from the user.
@@ -14,7 +13,6 @@ Write a python program to check the number is prime or not and inspect for failu
 6. If the number is divisible by the current iteration value, return "Not Prime".
 7. If the number is not divisible by any value from 2 to the square root, return "Prime".
 8. Stop the program.
-
 ### Program:
 ```
 num = input()
@@ -38,47 +36,7 @@ else:
     print("Enter a Positive Number")
 
 ```
-
-
-
-
 ### Output:
-```
-3
-Prime Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-4
-Prime Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
--3
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-0
-Not a Prime Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-jk
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-4221445224742
-Not a Prime Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
---
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-@@
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-333336
-Not a Prime Number
-
-```
+![373511536-6bab7261-55d2-46ab-a6a5-58e7ed205517](https://github.com/user-attachments/assets/e09480f7-180c-4021-88c6-ef90810ab48f)
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
