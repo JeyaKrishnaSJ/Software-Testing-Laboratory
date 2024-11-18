@@ -1,14 +1,9 @@
 # Ex.No 5 Binary Search
-Date : 04/10/24
-
+Date : 13/9/24
 Register Number:212222040064
-
 ### Aim
 Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
-
 ### Algorithm:
-
-
 1. Start the program. 
 2. Get the list from the user 
 3. Get the element to be searched 
@@ -16,7 +11,6 @@ Write a program in Python language to search a given element is present in the l
 5. If key is greater, search it in the right side, else search it in the left side. 
 6. If not found return -1 
 7. Stop the program.
-
 ### Program:
 ```
 def binary_search(arr, x): 
@@ -47,14 +41,8 @@ try:
 except ValueError: 
     print("Enter a valid input!")
 ```
-
-
-
 ### Output:
-
 ![Screenshot (70)](https://github.com/user-attachments/assets/d1824f5a-f824-43b9-936c-ff8a64211550)
-
-
 ### Result:
 Thus, the python program of binary search is implemented and the output is verified 
 successfully.
