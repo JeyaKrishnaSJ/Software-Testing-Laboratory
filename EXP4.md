@@ -1,9 +1,8 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
-### DATE: 04/10/24                                                                    
+### DATE: 6/9/24                                                                    
 ### REGISTER NUMBER : 212222040064
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
-
 ### Algorithm:
 1.  Start the program.
 2.	Read an integer input number.
@@ -14,7 +13,6 @@ Write a python program to check the number is Armstrong number or not and inspec
 7.	num = num / 10.
 8.	Check if sum == number. If true, print "It is an Armstrong Number." Otherwise, print "It is not an Armstrong Number."
 9.	Stop the program.
-
 ### Program:
 ```
 x = input("Enter the input: ")
@@ -32,42 +30,9 @@ if x.isnumeric():
         print("Not Armstrong Number")
 else:
     print("Enter a Positive Integer.")
-
 ```
-
-
-
 ### Output:
-
-```
-Enter the input: 3
-Armstrong Number
-
-Enter the input: 3334
-Not Armstrong Number
-
-Enter the input: -17
-Enter a Positive Integer.
-
-Enter the input: 0
-Armstrong Number
-
-Enter the input:  
-Enter a Positive Integer.
-
-Enter the input: @#
-Enter a Positive Integer.
-
-Enter the input: jj
-Enter a Positive Integer.
-
-Enter the input: 2132736201928002
-Not Armstrong Number
-```
-
-
-
-
+![377146145-1bd78a44-25f6-4bf5-be05-d005755e13a2](https://github.com/user-attachments/assets/bd4ea77f-e73f-4956-948d-d5fc4776145d)
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
 
